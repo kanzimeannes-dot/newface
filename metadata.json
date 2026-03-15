@@ -1,0 +1,8 @@
+{
+  "name": "SocialSync",
+  "description": "A lightweight Facebook-style social network with user profiles, posts, likes, comments, and an admin panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
